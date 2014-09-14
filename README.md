@@ -1,0 +1,1 @@
+LBG vector quantization algorithm
